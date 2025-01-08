@@ -64,5 +64,5 @@ def count_images(folder_path):
 
 
 # 替换成你的文件夹路径
-folder_path = '/home/dmh/My_code/TBMDFuse/test_images/MSRS/ir'
+folder_path = ''
 
