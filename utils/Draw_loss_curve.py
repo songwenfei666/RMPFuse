@@ -3,6 +3,7 @@ import matplotlib
 matplotlib.use('Agg')  # 或者 'TkAgg'，根据你的需要选择
 from matplotlib import pyplot as plt
 
+# 替换成你的文件夹路径
 save_path = ""
 if not os.path.exists(save_path):
     os.makedirs(save_path)
