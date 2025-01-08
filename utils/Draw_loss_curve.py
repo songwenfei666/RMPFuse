@@ -3,7 +3,7 @@ import matplotlib
 matplotlib.use('Agg')  # 或者 'TkAgg'，根据你的需要选择
 from matplotlib import pyplot as plt
 
-save_path = "/home/dmh/My_code/TBMDFuse/loss/"
+save_path = ""
 if not os.path.exists(save_path):
     os.makedirs(save_path)
 def Draw_loss_curve(Epochs, Mean_Loss,run_time):
