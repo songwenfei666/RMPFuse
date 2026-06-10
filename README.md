@@ -22,4 +22,4 @@ python Train.py
 ``` 
 and the trained model is available in ``'./model/'``.
 
->>>>>>> ad3edea (first commit)
+
